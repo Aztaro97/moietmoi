@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comment version="3.0">
+  <caption>The beautiful park</caption>
+  <note>The beautiful park</note>
+  <place/>
+  <categories>
+    <category value="architecture"/>
+    <category value="art"/>
+    <category value="attractive"/>
+    <category value="background"/>
+    <category value="beautiful"/>
+    <category value="blue"/>
+    <category value="boats"/>
+    <category value="british"/>
+    <category value="city"/>
+    <category value="cityscape"/>
+    <category value="classic"/>
+    <category value="country"/>
+    <category value="culture"/>
+    <category value="day"/>
+    <category value="england"/>
+    <category value="english"/>
+    <category value="europe"/>
+    <category value="exterior"/>
+    <category value="forest"/>
+    <category value="grass"/>
+    <category value="green"/>
+    <category value="lake"/>
+    <category value="landscape"/>
+    <category value="leaf"/>
+    <category value="nature"/>
+    <category value="outdoors"/>
+    <category value="park"/>
+    <category value="peaceful"/>
+    <category value="pond"/>
+    <category value="richmond"/>
+    <category value="river"/>
+    <category value="scene"/>
+    <category value="sky"/>
+    <category value="spring"/>
+    <category value="summer"/>
+    <category value="sun"/>
+    <category value="sunny"/>
+    <category value="sunrise"/>
+    <category value="thames"/>
+    <category value="tourism"/>
+    <category value="town"/>
+    <category value="traditional"/>
+    <category value="travel"/>
+    <category value="tree"/>
+    <category value="trees"/>
+    <category value="typical"/>
+    <category value="typically"/>
+    <category value="urban"/>
+    <category value="view"/>
+    <category value="water"/>
+  </categories>
+</comment>
